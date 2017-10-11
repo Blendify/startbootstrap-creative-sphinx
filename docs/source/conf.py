@@ -79,6 +79,8 @@ todo_include_todos = False
 
 # -- Options for HTML output ----------------------------------------------
 
+html_experimental_html5_builder = True
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
@@ -166,6 +168,3 @@ texinfo_documents = [
      author, 'startbootstrap-creative-sphinx', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
