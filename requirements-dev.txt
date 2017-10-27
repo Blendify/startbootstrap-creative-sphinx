@@ -1,1 +1,1 @@
-git+git://github.com/blendify/sphinx.git
+git+git://github.com/sphinx-doc/sphinx.git@30a9cb0dd8595e361b53bb3f3a0d4e487161e683
